@@ -4,7 +4,6 @@ React Laravel Assessment for the 3rd FaveTech Assessment
 A movie booking app made using ReactJS for frontend and Laravel for the backend!
 
 # Introduction
-
 As part of the 3rd assessment for the Fave TechHub program, we were required to make a simple movie booking app using ReactJS for frontend and Laravel for the backend!
 
 # Reflection
@@ -66,17 +65,17 @@ Successfully Deleted Booking Prompt!
 # Instructions To Run:
 - Clone/Download this repo and copy it to your respective workspace.
 
-1a. For Movie API Client (React):
+1. For Movie API Client (React):
 - Cd to Client folder
 - Use "npm install"
 - Use "npm run start"
 
-1b. For Booking Page Client (React):
+2. For Booking Page Client (React):
 - Cd to Client folder
 - Use "npm install"
 - Use "npm run start"
 
-2. For Server (laravel):
+3. For Server (Laravel):
 - Cd to Server folder
 - Run "composer install"
 - Create .env from .env.example
